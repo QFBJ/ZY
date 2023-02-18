@@ -1,3 +1,10 @@
+千方百纪,#genre#
+千方百纪精选电影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+千方百纪抗战剧场,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
+千方百纪军事观察,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
+千方百纪广场舞,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_235_600_t10/c56_lb_235_600_t10.m3u8
+千方百纪怀旧剧场,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8
+千方百纪谍战剧场,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_216_600_t10/c57_lb_216_600_t10.m3u8
 央视频道,#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/TVOD/88888910/224/3221225630/index.m3u8?$移动高清720P#http://111.20.106.13:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$移动超清1080P#http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/cctv-1/1.m3u8?$移动超清1080P#http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8?$移动超清1080P#http://iptv.tvfix.org/hls/cctv1hd.m3u8?$全网超清1080P#http://117.148.179.155:80/PLTV/88888888/224/3221231468/1.m3u8?$咪咕移动1080P
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://111.20.106.13:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$移动超清1080P#http://iptv.tvfix.org/hls/cctv2hd.m3u8?$全网超清1080P#http://111.20.41.249:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8?$移动超清1080P#http://39.135.212.1:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/cctv-2/1.m3u8?$移动超清1080P#http://117.148.179.147:80/PLTV/88888888/224/3221231678/1.m3u8?$咪咕移动1080P#http://39.135.138.58:18890/PLTV/88888888/224/3221225643/index.m3u8?$移动蓝光1080P
@@ -371,7 +378,7 @@ TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072
 猫和老鼠,http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
 怀旧动画,http://118.26.120.36:55336/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
 巧虎,http://118.26.120.37:55336/tslive/c55_lb_135_600_t10/c55_lb_135_600_t10.m3u8?key=0f2a06793124310bcefefdf4e48b17f9a
-小猪佩寄,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
+小猪佩奇,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
 宝宝课堂,http://118.26.120.23:55336/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
 宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
 奥特曼,http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95

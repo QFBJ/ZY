@@ -1,4 +1,4 @@
-{  "spider": "./QFBJ.jar;md5;57c09f96de572de534071e2d892d6e3a",  "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live.txt"          ]        }      ]    }  ],
+{  "spider": "./QFBJ.jar;md5;57c09f96de572de534071e2d892d6e3a", // "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live.txt"          ]        }      ]    }  ],
 
   "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
 

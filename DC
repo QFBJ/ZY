@@ -64,7 +64,8 @@
 {"name":"新疆卫视 标清","urls":["https://live.v1.mk/api/ghyx.php?id=XinJiangHD_2000"]},
 {"name":"甘肃卫视 标清","urls":["https://live.v1.mk/api/ghyx.php?id=GanSuHD_2000"]},
 {"name":"厦门卫视 标清","urls":["https://live.v1.mk/api/ghyx.php?id=XiaMenHD_2000"]},
-{"name":"宁夏卫视 标清","urls":["https://live.v1.mk/api/ghyx.php?id=NingXiaHD_2000"]},
+{"name":"宁夏卫视 标清","urls":["https://live.v1.mk/api/ghyx.php?id=NingXiaHD_2000"]}
+]},
 
 {"group": "🐉•北京频道","channels": [{"name":"北京卫视BTV-1","urls":["https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000"]},
 {"name":"北京文艺BTV-2","urls":["https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000"]},

@@ -1,9 +1,9 @@
-https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/1.png
-https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/2.png
-https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/3.png
-https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/4.png
-https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/5.png
-https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/6.png
-https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/7.png
-https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/8.png
-https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/9.png
+<audio autoplay="autoplay" loop="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/1.png"> <source src="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P//QFBJ.php" rel="external nofollow"  type="audio/mpeg"> </audio>
+<audio autoplay="autoplay" loop="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/2.png"> <source src="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P//QFBJ.php" rel="external nofollow"  type="audio/mpeg"> </audio>
+<audio autoplay="autoplay" loop="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/3.png"> <source src="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P//QFBJ.php" rel="external nofollow"  type="audio/mpeg"> </audio>
+<audio autoplay="autoplay" loop="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/4.png"> <source src="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P//QFBJ.php" rel="external nofollow"  type="audio/mpeg"> </audio>
+<audio autoplay="autoplay" loop="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/5.png"> <source src="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P//QFBJ.php" rel="external nofollow"  type="audio/mpeg"> </audio>
+<audio autoplay="autoplay" loop="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/6.png"> <source src="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P//QFBJ.php" rel="external nofollow"  type="audio/mpeg"> </audio>
+<audio autoplay="autoplay" loop="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/7.png"> <source src="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P//QFBJ.php" rel="external nofollow"  type="audio/mpeg"> </audio>
+<audio autoplay="autoplay" loop="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/8.png"> <source src="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P//QFBJ.php" rel="external nofollow"  type="audio/mpeg"> </audio>
+<audio autoplay="autoplay" loop="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/9.png"> <source src="https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P//QFBJ.php" rel="external nofollow"  type="audio/mpeg"> </audio>

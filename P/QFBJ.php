@@ -12,7 +12,7 @@ fclose($handle);
 return $list;
 }
 
-$list = read('QFBJ.txt');
+$list = read('https://jsd.cdn.zzko.cn/gh/QFBJ/ZY@main/P/QFBJ.txt');
 $url = $list[array_rand($list)];
 
 header("Location: {$url}");

@@ -1,4 +1,4 @@
-{  "warningText": "本接口由抖音号：千方百纪业余制作！希望使用者新的一年里，心想事成，万事如意，合家欢乐，幸福安康！", "spider": "./QFBJ.jar;md5;57c09f96de572de534071e2d892d6e3a", // "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live.txt"          ]        }      ]    }  ],
+{  "warningText": "本接口由抖音号：千方百纪提供！希望使用者新的一年里，心想事成，万事如意，合家欢乐，幸福安康！",  "spider": "./QFBJ.jar;md5;57c09f96de572de534071e2d892d6e3a", // "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live.txt"          ]        }      ]    }  ],
 
   "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
 

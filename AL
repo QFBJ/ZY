@@ -1,0 +1,94 @@
+//抖音千方百纪收集，来源于应用多多大聪明
+{warningText": "本接口由抖音号：千方百纪收集！阿里云盘专用",
+ "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+  "wallpaper": "https://raw.iqiq.io/QFBJ/ZY/main/P/KK.jpg",
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=https://raw.iqiq.io/QFBJ/TV/main/Q/狂飙影音"
+          ]
+        }
+      ]
+    }
+  ],
+  "sites": [
+    {
+      "key":"js豆瓣",
+      "name":"千方百纪┃阿里专用",
+      "type":3,
+      "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "ext":"https://jihulab.com/duomv/duo/-/raw/main/js/douban.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "小纸条1",
+      "name": "千方百纪┃小纸条①",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 0
+    },
+    {
+      "key": "小纸条2",
+      "name": "千方百纪┃小纸条②",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 0,
+      "jar": "https://yydsys.top/duo/jar/xzt.jar"
+    },
+    {
+      "key": "易搜",
+      "name": "千方百纪┃4K易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0
+    },
+    {
+      "key": "盘搜",
+      "name": "千方百纪┃4K盘搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0
+    },
+    {
+      "key": "云搜",
+      "name": "千方百纪┃4K云搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0
+    },
+    {
+      "key": "找资源",
+      "name": "千方百纪┃4K找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0
+    },
+    {
+      "key": "push_agent",
+      "name": "千方百纪┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0
+    }
+  ]
+}

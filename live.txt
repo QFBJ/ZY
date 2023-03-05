@@ -1,6 +1,6 @@
 康康影视,#genre#
 抖音搜索,http://epg.112114.xyz/douyu/8901218
-千方百纪,"http://epg.112114.xyz/douyu/8759139
+千方百纪,http://epg.112114.xyz/douyu/8759139
 千方百纪军事观察,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
 千方百纪广场舞,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_235_600_t10/c56_lb_235_600_t10.m3u8
 千方百纪怀旧剧场,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8

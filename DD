@@ -19,7 +19,7 @@
 "quickSearch":1,
 "searchable":1,"ext":""
 },
-{"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"http://t.grelighting.cn/html/box/js/drpydb.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://t.grelighting.cn/html/box/js/db.js"},
+{"key":"dr_豆瓣","name":"🔍豆瓣荐片〡官方","type":3,"api":"http://t.grelighting.cn/html/box/js/drpydb.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"http://t.grelighting.cn/html/box/js/db.js"},
 
 
 {
@@ -91,7 +91,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
- {"key":"csp_Lgyy","name":"🌀voflix","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"csp_Lgyy","name":"🌀voflix〡推荐","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {
             "key": "低端",
             "name": "🐞低端影视〡推荐",

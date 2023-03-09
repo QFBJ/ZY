@@ -11,7 +11,7 @@
 ]},
 
 
-{"group": "🇨🇳•央视频道","channels": [
+ //{"group": "🇨🇳•央视频道","channels": [
 {"name":"CCTV1","urls":["https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000"]},
 {"name":"CCTV2","urls":["https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000"]},
 {"name":"CCTV3","urls":["https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000"]},
@@ -33,7 +33,7 @@
 ]},
 
 
-{"group": "🐭•地方频道","channels": [{"name":"浙江卫视","urls":["https://live.v1.mk/api/ghyx.php?id=ZheJiangHD_6000"]},
+ //{"group": "🐭•地方频道","channels": [{"name":"浙江卫视","urls":["https://live.v1.mk/api/ghyx.php?id=ZheJiangHD_6000"]},
 {"name":"北京卫视","urls":["https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000"]},
 {"name":"广西卫视","urls":["https://live.v1.mk/api/ghyx.php?id=GuangXiHD_6000"]},
 {"name":"辽宁卫视","urls":["https://live.v1.mk/api/ghyx.php?id=LiaoNingHD_6000"]},
@@ -70,7 +70,7 @@
 {"name":"宁夏卫视 标清","urls":["https://live.v1.mk/api/ghyx.php?id=NingXiaHD_2000"]}
 ]},
 
-{"group": "🐉•北京频道","channels": [{"name":"北京卫视BTV-1","urls":["https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000"]},
+ //{"group": "🐉•北京频道","channels": [{"name":"北京卫视BTV-1","urls":["https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000"]},
 {"name":"北京文艺BTV-2","urls":["https://live.v1.mk/api/ghyx.php?id=BTVwenyiHD_6000"]},
 {"name":"北京科教BTV-3","urls":["https://live.v1.mk/api/ghyx.php?id=BTVKeJiaoHD_6000"]},
 {"name":"北京科教BTV-3 标清","urls":["https://live.v1.mk/api/ghyx.php?id=BTV3HD_2000"]},
@@ -87,7 +87,7 @@
 {"name":"乐游","urls":["https://live.v1.mk/api/ghyx.php?id=QuanJiShiHD_6000"]}
 ]},
 
-{"group": "🐯•广东频道","channels": [
+ //{"group": "🐯•广东频道","channels": [
 {"name":"广东珠江","urls":["http://157.122.177.10:9901/tsfile/live/1007_1.m3u8"]},
 {"name":"广东珠江","urls":["http://218.17.216.102:9901/tsfile/live/1001_1.m3u8"]},
 {"name":"广东公共","urls":["http://218.17.216.102:9901/tsfile/live/1003_1.m3u8"]},
@@ -167,7 +167,7 @@
 {"name":"开国大典4K修复珍藏","urls":["https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcWRaQXVqUUttYXpiUVJnSTFiVnJzVDNRSFk_ZT0yUDA5a0g"]}
 ]},
 
-{"group": "🐷•授测频道_520","channels": [
+ {"group": "🐷•授测频道_520","channels": [
 {"name":"解说AV1","urls":["https://v.kdou5.com/20220331/2O5EiSZ7/index.m3u8"]},
 {"name":"解说AV2","urls":["https://vdsgp3.3p3942.cn/20220422/tvbDm1UD/index.m3u8"]},
 {"name":"解说AV3","urls":["https://cdn3.yuan-baidu.com/800k/m3u8/202010/20/4590c06ebd08/index.m3u8"]},

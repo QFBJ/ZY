@@ -1,20 +1,22 @@
-{  "warningText": "本接口由抖音号：千方百纪提供！希望使用者新的一年里，心想事成，万事如意，合家欢乐，幸福安康！",   "spider": "./QFBJ.jar", // "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live.txt"          ]        }      ]    }  ],
+{  "warningText": "🌹🌹🌹康康🐉影视由抖音号千方百纪制作，失效请联系千方百纪更新🌹🌹🌹",   "spider": "./QFBJ.jar", // "lives": [    {      "group": "redirect",      "channels": [        {          "name": "redirect",          "urls": [            "proxy://do=live&type=txt&ext=./live.txt"          ]        }      ]    }  ],
 
- // "wallpaper": "https://raw.iqiq.io/QFBJ/ZY/main/P/KK.jpg",
+ "wallpaper": "https://raw.iqiq.io/QFBJ/ZY/main/P/KK.jpg",
 //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", 
 //"logo": "https://epg.112114.xyz/logo/{name}.png" , 
 
+ //  "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
 
-    "lives": [{"group": "🎵•千方百纪","channels": [
+
+    "lives": [{"group": "🐭•康康影视","channels": [
 {"name":"抖音搜索","urls":["http://epg.112114.xyz/douyu/8901218"]},
 {"name":"千方百纪","urls":["http://epg.112114.xyz/douyu/8759139"]}
 ]},
 
 
 
-{"group": "🐵•测试频道","channels": [
+{"group": "🐯•测试频道","channels": [
 {"name":"斗鱼轮播","urls":["http://epg.112114.xyz/douyu/7971641"]},
-{"name":"国语译制电影轮播","urls":["http://epg.112114.xyz/douyu/2436390"]},
+{"name":"国语电影轮播","urls":["http://epg.112114.xyz/douyu/2436390"]},
 {"name":"庆余年电视剧","urls":["http://epg.112114.xyz/douyu/9633542"]},
 {"name":"欢乐颂电视剧","urls":["http://epg.112114.xyz/douyu/3756989"]},
 {"name":"好先生电视剧","urls":["http://epg.112114.xyz/douyu/9650792"]},
@@ -23,10 +25,10 @@
 {"name":"粤语版电影1","urls":["http://epg.112114.xyz/douyu/5033502"]},
 {"name":"粤语版电影2","urls":["http://epg.112114.xyz/douyu/6566671"]},
 {"name":"粤语版电影3","urls":["http://epg.112114.xyz/douyu/1226741"]},
-{"name":"开国大典4K修复珍藏","urls":["https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcWRaQXVqUUttYXpiUVJnSTFiVnJzVDNRSFk_ZT0yUDA5a0g"]}
+{"name":"开国大典","urls":["https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcWRaQXVqUUttYXpiUVJnSTFiVnJzVDNRSFk_ZT0yUDA5a0g"]}
 ]},
 
-{"group": "🐷•授测频道_520","channels": [
+{"group": "🐉•授测频道_520","channels": [
 {"name":"解说AV1","urls":["https://v.kdou5.com/20220331/2O5EiSZ7/index.m3u8"]},
 {"name":"解说AV2","urls":["https://vdsgp3.3p3942.cn/20220422/tvbDm1UD/index.m3u8"]},
 {"name":"解说AV3","urls":["https://cdn3.yuan-baidu.com/800k/m3u8/202010/20/4590c06ebd08/index.m3u8"]},
@@ -97,11 +99,8 @@
 {"name":"Erotic 3","urls":["http://54.36.123.36:8080/PinkErotic3/video.m3u8"]}
 ]}],
 
- // "wallpaper": "https://raw.iqiq.io/QFBJ/ZY/main/P/KK.jpg",
-//"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", 
-//"logo": "https://epg.112114.xyz/logo/{name}.png" , 
-
-  "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
+  
+  
   "sites": [    {      "key": "csp_sp_T4聚合",      "name": "抖音┃千方百纪",      "type": 4,      "api": "https://t4.secan.icu/vod?sites=all&ali_token=daae36603bcd490681bdd8d03940783a&timeout=10",      "searchable": 1,      "quickSearch": 1,      "filterable": 0    } ,   {      "key": "csp_sp_360影视",      "name": "官方┃360影视",      "api": "csp_SP360",      "type": 3,      "filterable": 1,      "quickSearch": 1,      "searchable": 1,      "ext": ""    },    {      "key": "csp_sp_腾讯视频",      "name": "官方┃腾讯视频",      "type": 3,      "api": "csp_QQ",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_sp_奇艺视频",      "name": "官方┃奇艺视频",      "type": 3,      "api": "csp_IQIYI",      "searchable": 0,      "quickSearch": 0,      "filterable": 1    },    {      "key": "csp_sp_芒果视频",      "name": "官方┃芒果视频",      "type": 3,      "api": "csp_MGTV",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "cps_xp_优酷视频",      "name": "官方┃优酷视频",      "type": 0,      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,      "categories": [        "综艺",        "动漫",        "动作片",        "喜剧片",        "爱情片",        "科幻片",        "恐怖片",        "剧情片",        "战争片",        "国产剧",        "港台剧",        "日韩剧",        "欧美剧",        "惊悚片",        "犯罪片",        "冒险片",        "悬疑片",        "动画片",        "武侠片",        "奇幻片"      ]    },    {      "key": "csp_xb_斗鱼直播",      "name": "官方┃斗鱼直播",      "type": 3,      "api": "csp_XBiubiu",      "searchable": 1,      "quickSearch": 1,      "filterable": 0,      "ext": "./XBiubiu/斗鱼.json"    },   {      "key": "csp_xp_虎牙直播",      "name": "官方┃虎牙直播",      "type": 3,      "api": "csp_XPathMacFilter",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "./XPathMacFilter/虎牙.json"    },   {      "key": "网易CC",      "name": "官方┃网易直播",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"https://raw.iqiq.io/QFBJ/ZYTV/main/0307yyds/duo.jar",    "ext": "https://raw.iqiq.io/QFBJ/ZYTV/main/0307yyds/XYQBiu/网易CC.json"    },  {"key":"csp_biubiu_搜狗影院","name":"官方┃搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "{\"name\": \"搜狗影院(官)\",\r\n\"url\": \"http://sogouyy.cn\",\r\n\"tihuan\": \"cnzz.com\",\r\n\"User\": \"空\",\r\n\"fenlei\": \"电影$/s/dianying/page/#电视剧$/s/dianshiju/page/#综艺$/s/zongyi/page/#动漫$/s/dianying/page/#B站$/s/bilibili/page/\",\r\n\"houzhui\": \"---.html\",\r\n\"shifouercijiequ\": \"1\",\r\n\"jiequqian\": \"class=\\\"module-items\",\r\n\"jiequhou\": \"<div id=\\\"page\",\r\n\"jiequshuzuqian\": \"<div class=\\\"module-item\\\">\",\r\n\"jiequshuzuhou\": \"</div>\",\r\n\"tupianqian\": \"src=\\\"\",\r\n\"tupianhou\": \"\\\"\",\r\n\"biaotiqian\": \"title=\\\"\",\r\n\"biaotihou\": \"\\\"\",\r\n\"lianjieqian\": \"href=\\\"\",\r\n\"lianjiehou\": \"\\\"\",\r\n\"sousuoqian\": \"/index.php/ajax/suggest?mid=1&wd=\",\r\n\"sousuohou\": \"&limit=500\",\r\n\"sousuohouzhui\": \"/d/\",\r\n\"ssmoshi\": \"0\",\r\n\"sousuoshifouercijiequ\": \"0\",\r\n\"jspic\": \"pic\",\r\n\"jsname\": \"name\",\r\n\"jsid\": \"id\",\r\n\"ssjiequqian\": \"空\",\r\n\"ssjiequhou\": \"空\",\r\n\"ssjiequshuzuqian\": \"空\",\r\n\"ssjiequshuzuhou\": \"空\",\r\n\"sstupianqian\": \"空\",\r\n\"sstupianhou\": \"空\",\r\n\"ssbiaotiqian\": \"空\",\r\n\"ssbiaotihou\": \"空\",\r\n\"sslianjieqian\": \"空\",\r\n\"sslianjiehou\": \"空\",\r\n\"bfshifouercijiequ\": \"0\",\r\n\"bfjiequqian\": \"空\",\r\n\"bfjiequhou\": \"空\",\r\n\"bfjiequshuzuqian\": \"class=\\\"sort-item\\\"\",\r\n\"bfjiequshuzuhou\": \"</div>\",\r\n\"zhuangtaiqian\": \"集数：</span>\",\r\n\"zhuangtaihou\": \"</div>\",\r\n\"daoyanqian\": \"导演：</span>\",\r\n\"daoyanhou\": \"</div>\",\r\n\"zhuyanqian\": \"主演：</span>\",\r\n\"zhuyanhou\": \"</div>\",\r\n\"juqingqian\": \"class=\\\"video-info-item video-info-content vod_content\\\">\",\r\n\"juqinghou\": \"<a\",\r\n\"bfyshifouercijiequ\": \"0\",\r\n\"bfyjiequqian\": \"空\",\r\n\"bfyjiequhou\": \"空\",\r\n\"bfyjiequshuzuqian\": \"<a\",\r\n\"bfyjiequshuzuhou\": \"/a>\",\r\n\"bfbiaotiqian\": \"<span>\",\r\n\"bfbiaotihou\": \"<\",\r\n\"bflianjieqian\": \"href=\\\"\",\r\n\"bflianjiehou\": \"\\\"\"}"},  {      "key": "短视频聚合",      "name": "合集┃康康视频",      "type": 3,      "api": "csp_XYQBiu",      "searchable": 0,      "quickSearch": 0,      "filterable": 0,  "jar":"https://raw.iqiq.io/QFBJ/ZYTV/main/0307yyds/duo.jar",    "ext": "https://raw.iqiq.io/QFBJ/ZYTV/main/0307yyds/XYQBiu/短视频聚合.json"    },
 {"key": "直播转点播","name": "直播┃电视直播","type": 4,"api": "http://120.53.102.254/live?url=http://home.jundie.top:81/ray/tvlive.txt","searchable": 1,"quickSearch": 1,"filterable": 1},{"key":"csp_GitCafe1","name":"网盘┃小纸条主","type":3,"api":"csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "./jar/alitoken.txt","jar": "./jar/ali刷新.jar"},
 {"key": "纸条","name": "网盘┃小纸条备","type": 3,"api": "csp_Paper","jar": "./jar/QFBJ.jar","ext": "./jar/alitoken.txt"},

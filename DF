@@ -44,7 +44,7 @@
 
 {      "key": "csp_sp_小苹果源",      "name": "推荐┃小苹果源",      "type": 3,      "api": "csp_LiteApple",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    
 
-{      "key": "Tutu_spider",      "name": "推荐┃图图影视",      "api": "csp_TutuYs",      "type": 3,      "filterable": 1,      "quickSearch": 1,      "searchable": 1,      "jar": "https://raw.iqiq.io/QFBJ/ZY/main/jar/QFBJ1.jar",      "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="    },   
+{      "key": "Tutu_spider",      "name": "推荐┃图图影视",      type": 3,      "api": "csp_AppTT",      "m3u8ads": "hd.youyhn.com",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,    "jar": "https://raw.iqiq.io/QFBJ/ZY/main/jar/QFBJ1.jar",  "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="    },   
 
 {      "key": "csp_sp_快看影视",      "name": "推荐┃快看影视",      "type": 3,      "api": "csp_Kuaikan",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },  {"key": "csp_bendi", "name": "本地┃本地视频 ","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 1} 
    ],  
